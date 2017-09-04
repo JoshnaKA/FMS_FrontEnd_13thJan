@@ -1,0 +1,48 @@
+[
+	{
+		"film_id" : 1,
+		"title" : "Bahubali",
+		"description" : "War Between Two Brothers",
+		"release_year" : 2015,
+		"language" : {
+				"language_id" : 1,
+				"name" : "Telugu",
+				"last_update" : "2016-01-10 01:49:34",
+				"delete_update" : "0000-00-00 00:00:00"
+				},
+		"length" : 100,
+		"rating" : "G",
+		"special_features" : ["Trailers","Deleted Scenes"],
+		"last_update" : "2016-01-10 01:49:34",
+		"album" : {
+				"album_id" : 1,
+				"album_name" : "Bahubali",
+				"photo_id" : "bahubali.jpg"
+				},
+		"category" : {
+				"category_id" : 1,
+				"name" : "Action",
+				"last_update" : "2016-01-10 01:49:34",
+				"delete_update" : "0000-00-00 00:00:00"
+				},
+		"delete_update" : "0000-00-00 00:00:00",
+		"actors":[
+					{
+						"actor_id" : 1,
+						"first_name" : "Prabhas",
+						"last_name" : "Raj",
+						"last_update" : "2016-01-10 01:49:34",
+						"delete_update" : "0000-00-00 00:00:00",
+						"photo_id" : "D://prabhas.jpg"
+					},
+					{
+						"actor_id" : 2,
+						"first_name" : "Anushka",
+						"last_name" : "Shetty",
+						"last_update" : "2016-01-10 01:49:34",
+						"delete_update" : "0000-00-00 00:00:00",
+						"photo_id" : "D://anushka.jpg"
+					}
+				]
+	}
+	]
